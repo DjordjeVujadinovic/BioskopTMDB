@@ -1,7 +1,19 @@
-# Vue 3 + Vite
+Recenzija Filmova ( Sa dodadtkom za bioskop)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Alati : Vue, JS, HTML, CSS, TMDB API
 
-## Recommended IDE Setup
+Projekat izvlači bazu filmova , noviji i popularniji filmovi su na baneru sajta, repertoar filmova prikazuje isključivo nove i popularne, u pretraživaču korisnik može da nađe i starije filmove. Korisnik može da se uloguje/registruje, ostavi recenziju i da rezerviše karte, kao i da ih ukloni iz korpe. Dole su prikazi projekta kako izgleda u praksi.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+![image](https://github.com/DjordjeVujadinovic/BioskopTMDB/blob/4ef4f9fa3ac3054f96d035730cd936c8a09fff85/skrin1.png)
+
+![image](https://github.com/DjordjeVujadinovic/BioskopTMDB/blob/4ef4f9fa3ac3054f96d035730cd936c8a09fff85/skrin2.png)
+
+![image](https://github.com/DjordjeVujadinovic/BioskopTMDB/blob/4ef4f9fa3ac3054f96d035730cd936c8a09fff85/skrin3.png)
+
+![image](https://github.com/DjordjeVujadinovic/BioskopTMDB/blob/4ef4f9fa3ac3054f96d035730cd936c8a09fff85/skrin4.png)
+
+![image](https://github.com/DjordjeVujadinovic/BioskopTMDB/blob/4ef4f9fa3ac3054f96d035730cd936c8a09fff85/skrin6.png)
+
+![image](https://github.com/DjordjeVujadinovic/BioskopTMDB/blob/4ef4f9fa3ac3054f96d035730cd936c8a09fff85/skrin7.png)
+
+![image](https://github.com/DjordjeVujadinovic/BioskopTMDB/blob/4ef4f9fa3ac3054f96d035730cd936c8a09fff85/skrin8.png)
